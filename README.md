@@ -6,14 +6,14 @@ A PokeNext é uma aplicação web que contém as principais informações dos pr
 Este projeto foi construido com base nas aulas de Matheus Battisti para estudo em desenvolvimento de aplicações web utilizando NextJs.
 
 ## 🔗Link de Acesso
-- Deploy Vercel: Em breve
+- Deploy Vercel: [Clique aqui!](https://pokenext-danielemidio1988.vercel.app/)
 
 ## 👥Equipe
 | [<img src="https://avatars.githubusercontent.com/u/111311678?v=4" width=115><br><sub>Daniel Emidio</sub>](https://github.com/DanielEmidio1988) |
 | :---: |
 
 ## 🧭Status do Projeto
-- ⏳Em andamento
+- ⏳Concluído
 
 ## 📄Concepção do Projeto
 
@@ -28,7 +28,7 @@ npm run dev
 
 ### Layout
 
-| <img src="./public/images/layout-1.png" width=200><br><sub>Home Page</sub> | <img src="./public/images/layout-2.png" width=200><br><sub>Detalhes</sub> |
+| <img src="./public/images/layout-1.png" width=400><br><sub>Home Page</sub> | <img src="./public/images/layout-2.png" width=400><br><sub>Detalhes</sub> |
 | :---: | :---: |
 
 
