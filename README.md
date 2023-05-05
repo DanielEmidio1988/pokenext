@@ -2,7 +2,7 @@
 
 ## 📖 Introdução 
 
-A PokeNext é uma aplicação web que contém as principais informações dos 1008 pokemons, como: nome, tipo, movimentos, entre outros, utilizando a API [PokeApi](https://pokeapi.co/).
+A PokeNext é uma aplicação web que contém as principais informações dos primeiros 251 pokemons, como: nome, tipo, movimentos, entre outros, utilizando a API [PokeApi](https://pokeapi.co/).
 Este projeto foi construido com base nas aulas de Matheus Battisti para estudo em desenvolvimento de aplicações web utilizando NextJs.
 
 ## 🔗Link de Acesso
@@ -23,23 +23,19 @@ Este projeto foi construido com base nas aulas de Matheus Battisti para estudo e
 npm install
 
 # executando o projeto
-npm start
+npm run dev
 ```
 
-### Layout Mobile
+### Layout
 
-- ⏳ Em breve
+| <img src="./public/images/layout-1.png" width=200><br><sub>Home Page</sub> | <img src="./public/images/layout-2.png" width=200><br><sub>Detalhes</sub> |
+| :---: | :---: |
 
 
 ### Funcionalidades
 ```bash
-- ⏳Em breve
-```
-
-### Bibliotecas Utilizadas
-
-```bash
-- ⏳ Em breve
+- Listagem de Pokemons
+- Detalhes do Pokemon
 ```
 
 ## 💡Programas utilizados:
